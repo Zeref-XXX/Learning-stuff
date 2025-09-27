@@ -1,0 +1,1 @@
+#do math operation and use default arguments and dynamic pass argument 
